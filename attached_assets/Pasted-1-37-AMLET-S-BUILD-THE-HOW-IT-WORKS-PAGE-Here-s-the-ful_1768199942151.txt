@@ -1,0 +1,133 @@
+1:37 AMLET'S BUILD THE "HOW IT WORKS" PAGE! 🔥
+Here's the full structure with that premium Delve/Replit vibe:
+
+HOW IT WORKS PAGE
+Hero Section:
+Background: Dark with subtle gradient (teal → purple)
+Title (Huge bold text):
+"From Setup to Appointments in 72 Hours"
+Subtitle:
+"No tech headaches. No training required. We handle everything."
+Visual: Animated timeline graphic showing 3 days → appointments flowing
+
+3-STEP TIMELINE (Big Visual Cards)
+STEP 1: Connect & Configure
+Timeline Badge: "Days 1-2"
+Icon: 🔌 (in gradient circle)
+We Integrate Your Entire Tech Stack
+4 sub-cards with checkmarks:
+Card 1: CRM Integration
+✅ Connect your CRM
+
+Keller Williams Command
+Follow Up Boss
+KvCore
+Sierra Interactive
+LionDesk
+Custom CRMs
+
+Card 2: Lead Sources
+✅ Sync your lead sources
+
+PropStream
+RedX
+Vulcan7
+BatchLeads
+CSV uploads
+Your existing lists
+
+Card 3: Calendar Sync
+✅ Hook up agent calendars
+
+Google Calendar
+Outlook
+Calendly
+Acuity Scheduling
+
+Card 4: Phone System
+✅ Set up AI phone lines
+
+We provide AI phone numbers
+Or integrate with your existing system
+Call recording enabled
+
+Bottom text: "No manual work. We handle all the technical setup."
+
+STEP 2: Train Your AI Agents
+Timeline Badge: "Days 2-3"
+Icon: 🤖 (in gradient circle)
+Custom AI Trained on YOUR Business
+4 AI Agent Type Cards:
+Buyer Agent 🏡
+
+Qualify buyer leads
+Schedule showings
+Match properties to criteria
+Handle buyer objections
+
+Seller Agent 📋
+
+Expired listing outreach
+FSBO conversations
+Book listing presentations
+Consultative approach
+
+FSBO Specialist 🎯
+
+Value-add positioning
+Build rapport naturally
+Address "selling solo" objections
+Book consultations
+
+Expired Listing Expert 📈
+
+Empathetic re-list approach
+Market analysis discussion
+Previous agent concerns
+Schedule listing appointments
+
+Upload your scripts section:
+
+"We train each AI agent on your specific scripts, brand voice, and local market knowledge"
+"Test calls with your team before going live"
+Screenshot of platform "Agent Builder" interface
+
+
+STEP 3: Launch & Scale
+Timeline Badge: "Days 3-7+"
+Icon: 🚀 (in gradient circle)
+Go Live. Appointments Start Flowing.
+Split into 2 phases:
+Phase A: Pilot Launch (Days 3-5)
+Card layout:
+
+📞 50-100 test calls to validate performance
+📊 Real-time monitoring and script optimization
+📅 Appointments auto-book to agent calendars with full lead context
+🎧 Review recordings and refine approach
+
+Phase B: Full Scale (Day 6+)
+Card layout:
+
+🔥 Ramp to 500-1,000 calls/day (or custom volume)
+🎯 Multi-campaign support:
+
+Buyer pond revival
+Expired listings (daily fresh)
+FSBO outreach
+Geographic farming
+Past client reactivation
+
+
+⚡ Instant CRM sync:
+
+Qualified calls → pushed to CRM
+Call summary + audio + transcript
+Email notification to assigned agent
+
+
+📊 Full platform access:
+
+Live call monitoring
+Campaign management
+Performance analytics
